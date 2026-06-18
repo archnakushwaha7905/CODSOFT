@@ -17,5 +17,3 @@ while True:
     if again.lower() != "y":
         break
 print(" Thanks for generate the password. Have a nice day!")
-#if length <=0:
-   # print(" Please enter a positive number!")
